@@ -1,0 +1,13 @@
+show dbs
+quit
+sho dbs
+show dbs
+quit
+cd ~/Fabmedical/content-init
+dir
+;
+dir
+;
+npm install
+cd ~/Fabmedical/content-init
+quit
